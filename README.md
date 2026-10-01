@@ -1,4 +1,4 @@
-## Oiii eu sou a Vinicius Oliveira, Analista de Banco de Dados
+## Oi eu sou a Vinicius Oliveira, Analista de Banco de Dados
 
 
 <div style="display: inline_block"><br>
